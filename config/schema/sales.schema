@@ -1,0 +1,11 @@
+# ================================================
+#  DataGuard — Schema Definition: sales
+#  format: column_name | type | required | min | max
+# ================================================
+
+# ستون‌های اصلی
+id       | integer | yes | 1 |
+city     | string  | yes |   |
+product  | string  | yes |   |
+amount   | number  | yes | 0 | 99999999
+date     | date    | yes |   |
