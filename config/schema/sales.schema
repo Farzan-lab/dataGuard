@@ -3,7 +3,7 @@
 #  format: column_name | type | required | min | max
 # ================================================
 
-# ستون‌های اصلی
+# Main column_name
 id       | integer | yes | 1 |
 city     | string  | yes |   |
 product  | string  | yes |   |
