@@ -1,0 +1,7 @@
+data/incoming/*
+data/valid/*
+data/quarantine/*
+data/processed/*
+logs/*
+reports/*
+!**/.gitkeep
